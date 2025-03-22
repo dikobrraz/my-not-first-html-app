@@ -1,0 +1,18 @@
+/* * {
+  background-color: aquamarine;
+} */
+
+#container1 {
+  display: flex;
+}
+/* if there are more than 1 div element то эти стили применяются ко всем div-ам */
+
+.container2 {
+  display: flex;
+  background-color: pink;
+}
+
+img {
+  width: 420px;
+  height: 500px;
+}
