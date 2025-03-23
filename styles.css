@@ -16,3 +16,10 @@ img {
   width: 420px;
   height: 500px;
 }
+
+table,
+tr,
+th,
+td {
+  border: 1px solid black;
+}
